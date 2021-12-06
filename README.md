@@ -3,7 +3,7 @@ NSFW画像検出モデル([open_nsfw_android](https://github.com/devzwy/open_nsf
 ONNXに変換したモデルも同梱しています。<br>
 
 # How to use
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Kazuhito00/open_nsfw_onnx_sample/blob/main/open_nsfw_onnx_sample.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/open_nsfw_onnx_sample/blob/master/open_nsfw_onnx_sample.ipynb)<br>
 [Open In Colab]ボタンを押し、Colaboratoryでノートブックを開き、<br>
 最初のセルから順に実行してください。<br><br>
 試す画像を変更する際はimread_from_url()のURLを変更してください。<br>
