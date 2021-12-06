@@ -1,5 +1,5 @@
 # open_nsfw_onnx_sample
-[open_nsfw_android](https://github.com/devzwy/open_nsfw_android)をColaboratory上で動かすサンプルです。<br>
+NSFW画像検出モデル([open_nsfw_android](https://github.com/devzwy/open_nsfw_android))をColaboratory上で動かすサンプルです。<br>
 ONNXに変換したモデルも同梱しています。<br>
 
 # How to use
